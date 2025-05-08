@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Oulu_amk_pisteet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3067" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "katos" }, "geometry": { "type": "Point", "coordinates": [ 427887.410521974496078, 7216133.517341446131468 ] } },
+{ "type": "Feature", "properties": { "ID": "kattoikkuna" }, "geometry": { "type": "Point", "coordinates": [ 427937.935008580854628, 7216118.289244028739631 ] } },
+{ "type": "Feature", "properties": { "ID": "pallo_piste" }, "geometry": { "type": "Point", "coordinates": [ 427913.38688680739142, 7216106.893726302310824 ] } }
+]
+}
